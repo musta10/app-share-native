@@ -10,7 +10,7 @@ App móvil construida con **React Native (Expo SDK 54)** + **JavaScript** + **CS
 - 🎨 UI moderna: toasts personalizados y diálogos de confirmación (sin alertas iOS feas)
 - 👥 **Multicuenta local**: cada amigo crea su propia cuenta en su móvil. Varias cuentas pueden coexistir en el mismo dispositivo.
 - ❤️ Sistema de likes, seguir/dejar de seguir, perfiles
-- 📊 Feed estilo Snapchat Discover (grid de 2 columnas)
+- 📊 Feed estilo Discover (grid de 2 columnas)
 - 📚 Stories horizontales de los amigos a los que sigues
 - 💾 Todos los datos se guardan **localmente** en el dispositivo (AsyncStorage). No requiere internet ni servidor.
 
